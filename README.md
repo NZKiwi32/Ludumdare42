@@ -5,8 +5,6 @@ Don’t get sucked in, or try and escape the map.
 
 The pup likes dog biscuits, keep him fed to earn points on your score!
 
-Controls:
-* Arrow keys to move.
-* Space in the menu to enter the game.
+https://ldjam.com/events/ludum-dare/42/adventures-of-spacepup
 
 ![Space Pup Title Screen](https://static.jam.vg/raw/3bd/41/z/16990.jpg)
